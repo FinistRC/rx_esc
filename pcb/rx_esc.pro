@@ -1,4 +1,4 @@
-update=24/12/2017 10:41:51
+update=24/12/2017 12:03:17
 version=1
 last_client=kicad
 [cvpcb]
@@ -25,16 +25,6 @@ SolderMaskMinWidth=0
 DrawSegmentWidth=0.2
 BoardOutlineThickness=0.15
 ModuleOutlineThickness=0.15
-[schematic_editor]
-version=1
-PageLayoutDescrFile=
-PlotDirectoryName=
-SubpartIdSeparator=0
-SubpartFirstId=65
-NetFmtName=Pcbnew
-SpiceForceRefPrefix=0
-SpiceUseNetNumbers=0
-LabSize=60
 [eeschema]
 version=1
 LibDir=
@@ -72,3 +62,13 @@ LibName30=a3906
 LibName31=C:/Users/Vinc/Documents/Kicad/RCTX_HAT/IC_raspberry
 LibName32=C:/Users/Vinc/Documents/Kicad/IOmodelisme/IOmodelisme-cache
 LibName33=C:/Program Files/KiCad/share/kicad/kicad-library/library/contrib_symbols_dl1eic/Symbols_DCDC-ACDC-Converter_RevC_20Jul2012
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=Pcbnew
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
